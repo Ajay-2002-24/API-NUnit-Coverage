@@ -1,4 +1,4 @@
-# Category API with NUnit and Code Coverage
+# API with NUnit and Code Coverage
 
 A robust ASP.NET Core Web API for managing categories with complete CRUD operations, built using Entity Framework Code-First and automated migrations. Includes a comprehensive NUnit test suite and integrated code coverage reporting using Coverlet and ReportGenerator.
 
