@@ -16,6 +16,10 @@ A robust ASP.NET Core Web API for managing categories with complete CRUD operati
 4. Run tests with coverage: `dotnet test --collect:"XPlat Code Coverage"`  
 5. View coverage report in `/TestResults/CoverageReport/index.html`
 6. <img width="1676" height="952" alt="image" src="https://github.com/user-attachments/assets/b810d6d4-78a5-4e42-a864-5239c9c18813" />
+SWagger API Endpoints 
+<img width="2052" height="1033" alt="image" src="https://github.com/user-attachments/assets/e9b4ee0b-6786-4570-a5a5-d5002218d049" />
+
+
 
 
 ## Usage
